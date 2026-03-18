@@ -1,0 +1,6 @@
+.env
+*.pyc
+document_uploader.log
+legal_chatbot.log
+venv
+__pycache__/
