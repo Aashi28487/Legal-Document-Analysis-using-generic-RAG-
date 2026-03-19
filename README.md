@@ -25,7 +25,7 @@ git clone https://github.com/arulkumarann/legalRAG.git
 cd legalRAG
 ```
 
-### **2. Create a virtual environment**  
+<!-- create env -->
 ```bash
 python -m venv venv
 # On Windows
@@ -45,9 +45,9 @@ pip install -r requirements.txt
 
 Create a `.env` file and add the following variables:  
 ```
-PINECONE_API_KEY=your_pinecone_api_key
+<!-- PINECONE_API_KEY=your_pinecone_api_key
 INDEX_NAME=your_pinecone_index_name
-GROQ_API_KEY=your_groq_api_key
+GROQ_API_KEY=your_groq_api_key -->
 ```
 
 ---  
